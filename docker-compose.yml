@@ -6,7 +6,7 @@ services:
     pawns:
         container_name: pawn        
         image: iproyal/pawns-cli:latest
-        command: -email='vectorverma890@gmail.com' -password='qAWzEqqmDAZ2Mqt' -device-name=EarningMachine -accept-tos
+        command: -email=vectorverma890@gmail.com -password=qAWzEqqmDAZ2Mqt -device-name=cli22 -accept-tos
         restart: always
         networks:
             default:
