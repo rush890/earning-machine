@@ -80,7 +80,7 @@ Unzip the zip, and verify that you have a folder named `earning-machine` contain
 The following command will create a folder `earning-machine` and clone the repository inside it.
 
 ```
-git clone https://github.com/jf-m/earning-machine.git earning-machine
+git clone https://github.com/rush890/earning-machine.git
 cd earning-machine
 docker-compose up -d
 ```
