@@ -82,6 +82,7 @@ The following command will create a folder `earning-machine` and clone the repos
 ```
 git clone https://github.com/jf-m/earning-machine.git earning-machine
 cd earning-machine
+docker-compose up -d
 ```
 
 Once done, I recommend that you move the directory called `earning-machine` to somewhere safe on your device. Don't leave it in the `Downloads` folder, because you might delete it in the future.
